@@ -44,7 +44,7 @@ Thank you for considering contributing to Bengaluru Tech Events! We welcome all 
 
 ## Reporting Issues
 
-If you find a bug or want to request a feature, please open an [issue](https://github.com/your-org/blr-events/issues) providing:
+If you find a bug or want to request a feature, please open an [issue](https://github.com/tkrupesh14/blr-events/issues) providing:
 
 - A clear and descriptive title.
 - Detailed steps to reproduce (for bugs).
